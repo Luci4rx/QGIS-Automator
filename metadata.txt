@@ -1,0 +1,25 @@
+[general]
+name=Ops Automator
+about=This plugin is a revolution!
+category=None
+hasProcessingProvider=True
+description=Extends QGIS with revolutionary features that every single GIS end-users was expected (or not)!
+icon=resources/images/default_icon.png
+tags=topic1,topic2
+
+# credits and contact
+author=Tyshkovets Vladislav
+email=tyshkovets.v.v@gmail.com
+homepage=https://gitlab.com/Company/ops_automator/
+repository=https://gitlab.com/Company/ops_automator/
+tracker=None
+
+# experimental flag
+deprecated=False
+experimental=True
+qgisMinimumVersion=3.28
+qgisMaximumVersion=3.99
+
+# versioning
+version=0.1.0
+changelog=
